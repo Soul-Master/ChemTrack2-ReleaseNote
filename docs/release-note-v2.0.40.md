@@ -57,6 +57,10 @@ Changes since v2.0.35. Screenshots show the English interface in the local v2.0.
 
 ![Building waste report columns for categories XVIII through XX](v2.0.40/waste-categories-xviii-xx.jpg)
 
+**Room Waste Report.** The doughnut chart shows the percentage of rooms that sent hazardous waste for disposal. Rooms with no matching disposal records appear at zero tons. Store and collection date filters determine which waste records count, and location filters narrow the room list. Select **Show only rooms with waste data** to limit the chart, table, and Excel export to rooms with a positive waste total.
+
+![Room Waste Report showing the disposal breakdown and the Show only rooms with waste data checkbox](v2.0.40/room-waste-disposal-chart.jpg)
+
 **Clearer totals and Excel exports.** Numbered references link report headers to an explanation of how total volume is calculated. Excel column headers omit the on-screen footnote markers. The top chemical usage report explains that its ranking uses quantities from removed containers.
 
 ![Top Chemical Usage Report with the numbered footnote link and Download Data control](v2.0.40/report-footnote-marker.jpg)
