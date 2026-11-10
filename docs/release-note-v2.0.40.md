@@ -82,3 +82,4 @@ Changes since v2.0.35. Screenshots show the English interface in the local v2.0.
 - **Funding details.** The Current Bottle report retains manually entered funding details when there is no linked funding record.
 - **Chart readability.** Pie and doughnut charts list categories from largest to smallest. The Chemical Usage History chart uses solid fills.
 - **Number formatting.** Counts display as whole numbers. Money fields display two decimal places.
+- **Report column alignment.** Headers for counts, quantities, and costs now align to the right above their values, making numeric columns easier to scan.
