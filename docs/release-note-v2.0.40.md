@@ -87,3 +87,4 @@ Changes since v2.0.35. Screenshots show the English interface in the local v2.0.
 - **Chart readability.** Pie and doughnut charts list categories from largest to smallest. The Chemical Usage History chart uses solid fills.
 - **Number formatting.** Counts display as whole numbers. Money fields display two decimal places.
 - **Report column alignment.** Headers for counts, quantities, and costs now align to the right above their values, making numeric columns easier to scan.
+- **Change Password.** The dialog clears all password fields after a successful change or when you cancel. If the change fails, your entries stay in the dialog so you can correct them and retry.
